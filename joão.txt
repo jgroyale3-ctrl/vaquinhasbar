@@ -1,0 +1,19 @@
+Eu quero criar um site para um bar chamado Vaquinha's Bar.
+
+- com cardapio online que seja acessível para publico
+- quero que ele tenha fotos
+- tem uma pagina para carrinho e finalizar a compra
+- tem que ter uma paginha inicial de nome e documento
+- Preparação do pedido para envio pelo WhatsApp.
+- Cálculo automático do valor total.
+- Carrinho de compras.
+- bebidas alcolicas liberadas para maiores de 18
+- conferir se o cliente e de maior 
+- Salgadinhos de pacote: Cheetos, Fandangos, Doritos, Ruffles, Cebolitos, Baconzitos, Torcida e outras variedades.
+Doces tradicionais de bar: paçoca, pé de moleque, brigadeiro, pirulitos, balas e chocolates.
+Bebidas: Coca-Cola, Pepsi, Guaraná, Fanta, Sprite, água, sucos e energéticos.
+- É para um publico de meia idade 
+- quero cores mais rustica 
+-  coloque as imagens certas e um codígo so
+- quero uma loja resalmente profissional
+-  quero todos com pacotes fechados 
